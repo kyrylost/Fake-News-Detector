@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fake News Detector</string>
+
+    <string name="news_is_true">The news is true</string>
+    <string name="news_is_fake">The news is fake</string>
+
+    <string name="enter_news_hint">Enter news…</string>
+    <string name="check_button">Check</string>
+    <string name="news_lang_hint">For now, fake news detector works properly only with news, that was written in english. If you want to check news written on any other language, please, click here and use Google Translator(You won\'t be redirected from the app, it will appear right here).</string>
+
+</resources>

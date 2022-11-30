@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "114313646430",
+    "firebase_url": "https://fake-news-detector-6aac5-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fake-news-detector-6aac5",
+    "storage_bucket": "fake-news-detector-6aac5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114313646430:android:828567d1fdd6be285abfcf",
+        "android_client_info": {
+          "package_name": "com.example.fakenewsdetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114313646430-b6mitmoegu4n2kd7bltvfc45u1ufsgiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjSmo-9h5eQZQJqL2ndFk-Bki3Z0_dtds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114313646430-b6mitmoegu4n2kd7bltvfc45u1ufsgiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
